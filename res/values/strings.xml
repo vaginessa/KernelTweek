@@ -3,9 +3,9 @@
 
     <string name="action_settings">Blah</string>
     <string name="app_name">Kernel Tweek</string>
-    <string name="usbLabel">Enable Fast Charge</string>
-    <string name="audio">Enable High Performance Audio</string>
+    <string name="usbLabel">Fast Charge aktivieren</string>
+    <string name="audio">High Performance Audio aktivieren</string>
     <string name="charge">Battery Charging Limit</string>
-    <string name="setonboot">Set on Boot</string>
+    <string name="setonboot">Autostart aktivieren</string>
 
 </resources>
